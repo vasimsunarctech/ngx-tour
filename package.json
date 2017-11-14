@@ -1,9 +1,79 @@
 {
-  "name": "ngx-tour-core",
-  "version": "1.0.1",
-  "repository": "https://github.com/vasimsunarctech/ngx-tour.git",
-  "author": "yuvraj.singh <yuvraj.singh@sunarctechnologies.com>",
+  "_args": [
+    [
+      {
+        "raw": "ngx-tour-core@^1.0.0",
+        "scope": null,
+        "escapedName": "ngx-tour-core",
+        "name": "ngx-tour-core",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "G:\\CountAdjustmentSampleProject\\node_modules\\ngx-tour-ng-bootstrap"
+    ]
+  ],
+  "_from": "ngx-tour-core@>=1.0.0 <2.0.0",
+  "_id": "ngx-tour-core@1.0.3",
+  "_inCache": true,
+  "_location": "/ngx-tour-core",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ngx-tour-core-1.0.3.tgz_1502298878359_0.9221398923546076"
+  },
+  "_npmUser": {
+    "name": "isaacplmann",
+    "email": "isaacplmann+npm@gmail.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ngx-tour-core@^1.0.0",
+    "scope": null,
+    "escapedName": "ngx-tour-core",
+    "name": "ngx-tour-core",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/ngx-tour-ng-bootstrap"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-tour-core/-/ngx-tour-core-1.0.3.tgz",
+  "_shasum": "a24b9264c24ca63c10cdf9d943697fb9ec7e7377",
+  "_shrinkwrap": null,
+  "_spec": "ngx-tour-core@^1.0.0",
+  "_where": "G:\\CountAdjustmentSampleProject\\node_modules\\ngx-tour-ng-bootstrap",
+  "author": {
+    "name": "Isaac Mann",
+    "email": "isaacplmann@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacplmann/ngx-tour/issues"
+  },
+  "dependencies": {},
+  "description": "[![Dependency Status](https://david-dm.org/isaacplmann/ngx-tour-core.svg)](https://david-dm.org/isaacplmann/ngx-tour-core) [![devDependency Status](https://david-dm.org/isaacplmann/ngx-tour-core/dev-status.svg)](https://david-dm.org/isaacplmann/ngx-tour-c",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-a4IE9vfzo4wYqWPzl0DAJuadUbPdRkee7pDB9hWteBEYRhBHksMTRkYcQwGsvvCTgfLl7XUsi3ChmG2urOAFiA==",
+    "shasum": "a24b9264c24ca63c10cdf9d943697fb9ec7e7377",
+    "tarball": "https://registry.npmjs.org/ngx-tour-core/-/ngx-tour-core-1.0.3.tgz"
+  },
+  "es2015": "ngx-tour-core/ngx-tour-core.js",
+  "homepage": "https://github.com/isaacplmann/ngx-tour#readme",
   "license": "MIT",
+  "main": "bundles/ngx-tour-core.umd.js",
+  "maintainers": [
+    {
+      "name": "isaacplmann",
+      "email": "isaacplmann+npm@gmail.com"
+    }
+  ],
+  "module": "ngx-tour-core/ngx-tour-core.es5.js",
+  "name": "ngx-tour-core",
+  "optionalDependencies": {},
   "peerDependencies": {
     "@angular/common": "^4.2.5",
     "@angular/core": "^4.2.5",
@@ -12,6 +82,11 @@
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.12"
   },
-  "dependencies": {
-  }
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacplmann/ngx-tour.git"
+  },
+  "typings": "ngx-tour-core.d.ts",
+  "version": "1.0.3"
 }
