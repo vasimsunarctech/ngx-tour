@@ -1,0 +1,17 @@
+{
+  "name": "ngx-tour-core",
+  "version": "1.0.1",
+  "repository": "https://github.com/vasimsunarctech/ngx-tour.git",
+  "author": "yuvraj.singh <yuvraj.singh@sunarctechnologies.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^4.2.5",
+    "@angular/core": "^4.2.5",
+    "@angular/router": "^4.2.5",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.4.2",
+    "zone.js": "^0.8.12"
+  },
+  "dependencies": {
+  }
+}
